@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    background-color: black;
+    color: white;
+    width: 830px;
+    padding: 20px;
+}
+img {
+    width: 400px;
+    height: 300px;
+    border: solid 2px green;
+
+}
+p {
+    margin-bottom: 20px;
+    width: 811px;
+}
