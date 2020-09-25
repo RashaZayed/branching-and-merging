@@ -1,20 +1,22 @@
-*{
-    margin: 0px;
-    padding: 0px;
+* {
+  margin: 0px;
+  padding: 0px;
 }
-#wrapper{
-    background-color: black;
-    color: white;
-    width: 830px;
-    padding: 20px;
+#wrapper {
+  background-color: black;
+  color: white;
+  width: 830px;
+  padding: 20px;
+}
+h1 {
+  color: yellowgreen;
 }
 img {
-    width: 400px;
-    height: 300px;
-    border: solid 2px green;
-
+  width: 400px;
+  height: 300px;
+  border: solid 2px green;
 }
 p {
-    margin-bottom: 20px;
-    width: 811px;
+  margin-bottom: 20px;
+  width: 811px;
 }
